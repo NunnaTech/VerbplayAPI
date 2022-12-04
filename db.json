@@ -1,4 +1,23 @@
 {
   "verbs": [],
-  "users": []
+  "users": [
+    {
+      "id": "07d12431-5b1f-42fe-b4df-a1fb71c5fcc3",
+      "name": "Luis",
+      "lastName": "Alvarez",
+      "userName": "luis123",
+      "email": "luis@gmail.com",
+      "password": "123456",
+      "verbs": []
+    },
+    {
+      "id": "aefea7f7-547e-4b3b-80fa-4692d0daea01",
+      "name": "Jair David",
+      "lastName": "Cornelio Lopez",
+      "userName": "TheYiro15",
+      "email": "yiro@gmail.com",
+      "password": "123456",
+      "verbs": []
+    }
+  ]
 }
