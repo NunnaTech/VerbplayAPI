@@ -1,23 +1,136 @@
 {
-  "verbs": [],
-  "users": [
+  "verbs": [
     {
-      "id": "07d12431-5b1f-42fe-b4df-a1fb71c5fcc3",
-      "name": "Luis",
-      "lastName": "Alvarez",
-      "userName": "luis123",
-      "email": "luis@gmail.com",
-      "password": "123456",
-      "verbs": []
+      "id": "4dde0aed-33e1-4c23-b94d-99a8bb3cfe0b",
+      "name": "Run",
+      "level": 1,
+      "spanish": [
+        "Corri",
+        "Corrio",
+        "Corrido"
+      ],
+      "english": [
+        "Run",
+        "Ran",
+        "Run"
+      ]
     },
     {
+      "id": "a5753c17-63da-4fee-871d-d4012883baa6",
+      "name": "Bring",
+      "level": 2,
+      "spanish": [
+        "Traer",
+        "Trajo",
+        "Traído"
+      ],
+      "english": [
+        "Bring",
+        "Brought",
+        "Brought"
+      ]
+    },
+    {
+      "id": "eff5b400-af3e-4ab0-ba2c-b937e47bb67a",
+      "name": "Eat",
+      "level": 1,
+      "spanish": [
+        "Comer",
+        "Comio",
+        "Comido"
+      ],
+      "english": [
+        "Eat",
+        "Ate",
+        "Eaten"
+      ]
+    },
+    {
+      "id": "d7602e7e-c380-4e9f-92b4-5c8be9e62aa9",
+      "name": "Read",
+      "level": 1,
+      "spanish": [
+        "Leer",
+        "Leyó",
+        "Leído"
+      ],
+      "english": [
+        "Read",
+        "Read",
+        "Read"
+      ]
+    },
+    {
+      "id": "df829a96-e48d-48c5-b15d-66ebaa388f28",
+      "name": "Know",
+      "level": 3,
+      "spanish": [
+        "Conocer",
+        "Conocío",
+        "Conocido"
+      ],
+      "english": [
+        "Know",
+        "Knew",
+        "Known"
+      ]
+    },
+    {
+      "id": "3e17852c-9793-4e16-8168-cd10d98071eb",
+      "name": "Beat",
+      "level": 2,
+      "spanish": [
+        "Vencer",
+        "Vencío",
+        "Vencido"
+      ],
+      "english": [
+        "Beat",
+        "Beat",
+        "Beaten"
+      ]
+    },
+    {
+      "id": "92a8f132-75bb-4129-aebe-f2ac80cc269f",
+      "name": "Feel",
+      "level": 2,
+      "spanish": [
+        "Sentir",
+        "Sintió",
+        "Sentido"
+      ],
+      "english": [
+        "Feel",
+        "Felt",
+        "Felt"
+      ]
+    }
+  ],
+  "users": [
+    {
       "id": "aefea7f7-547e-4b3b-80fa-4692d0daea01",
-      "name": "Jair David",
-      "lastName": "Cornelio Lopez",
-      "userName": "TheYiro15",
-      "email": "yiro@gmail.com",
+      "name": "Raúl Genaro",
+      "lastName": "Adame Najera",
+      "userName": "LinuxEnjoyer",
+      "email": "linux8612@gmail.com",
       "password": "123456",
-      "verbs": []
+      "verbs": [
+        {
+          "id": "eff5b400-af3e-4ab0-ba2c-b937e47bb67a",
+          "name": "Eat",
+          "level": 1,
+          "spanish": [
+            "Comer",
+            "Comio",
+            "Comido"
+          ],
+          "english": [
+            "Eat",
+            "Ate",
+            "Eaten"
+          ]
+        }
+      ]
     }
   ]
 }

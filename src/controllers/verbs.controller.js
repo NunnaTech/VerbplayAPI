@@ -9,6 +9,7 @@ export const createVerb = async (req,res)=>{
     const newVerb = {
         id:uuid(),
         name:req.body.name,
+        level:req.body.level,
         spanish:req.body.spanish,
         english:req.body.english
     }
@@ -28,7 +29,7 @@ export const getVerb = (req,res)=>{
     res.json(verb)
 }
 
-export const updateTask = async (req,res)=>{
+export const updateVerb = async (req,res)=>{
     const db = getConnection()
     const verb = db.data.verbs.find(obj => obj.id === req.params.id)
     if (!verb) return res.status(404).send({message:'404'})
@@ -40,7 +41,7 @@ export const updateTask = async (req,res)=>{
     res.json({message:'Successful Updated',data:verb})
 }
 
-export const deleteTask = async (req,res)=>{
+export const deleteVerb = async (req,res)=>{
     const db = getConnection()
     const verb = db.data.verbs.find(obj => obj.id === req.params.id)
     if (!verb) return res.status(404).send({message:'404'})
@@ -50,7 +51,7 @@ export const deleteTask = async (req,res)=>{
     res.json({message:'Successful Elimination',data:verb})
 }
 
-export const count = (req,res)=>{
+export const countVerbs = (req,res)=>{
     const total = getConnection().data.verbs.length
     res.json({total:total})
 }
