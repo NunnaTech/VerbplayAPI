@@ -104,6 +104,291 @@
         "Felt",
         "Felt"
       ]
+    },
+    {
+      "id": "2c3dcc85-3888-426c-9896-13aae16bef34",
+      "name": "Throw",
+      "level": 3,
+      "spanish": [
+        "Arrojar",
+        "Arrojó",
+        "Arrojado"
+      ],
+      "english": [
+        "Throw",
+        "Threw",
+        "Thrown"
+      ]
+    },
+    {
+      "id": "40c4300b-5e48-49a3-9196-0a560decc944",
+      "name": "Wake",
+      "level": 3,
+      "spanish": [
+        "Despertar",
+        "Despertó",
+        "Despertado"
+      ],
+      "english": [
+        "Wake",
+        "Woke",
+        "Woken"
+      ]
+    },
+    {
+      "id": "3fa0c5b3-e722-4291-8eec-2cce6158176c",
+      "name": "Teach",
+      "level": 3,
+      "spanish": [
+        "Enseñar",
+        "Enseñé",
+        "Enseñado"
+      ],
+      "english": [
+        "Teach",
+        "Taught",
+        "Taught"
+      ]
+    },
+    {
+      "id": "ec6db583-dff2-49e9-a62f-868d9ce12c4a",
+      "name": "Steal",
+      "level": 3,
+      "spanish": [
+        "Robar",
+        "Robó",
+        "Robado"
+      ],
+      "english": [
+        "Steal",
+        "Stole",
+        "Stolen"
+      ]
+    },
+    {
+      "id": "d14af66a-9376-4a89-962d-e483d3347070",
+      "name": "Wear",
+      "level": 3,
+      "spanish": [
+        "Vestir",
+        "Vistió",
+        "Vestido"
+      ],
+      "english": [
+        "Wear",
+        "Wore",
+        "Worn"
+      ]
+    },
+    {
+      "id": "c2088860-2a85-4693-a3cc-c3526ecfdb3c",
+      "name": "Shrink",
+      "level": 3,
+      "spanish": [
+        "Encoger",
+        "Encogió",
+        "Encogido"
+      ],
+      "english": [
+        "Shrink",
+        "Shrank",
+        "Shrunk"
+      ]
+    },
+    {
+      "id": "a0cb2ef4-1bd0-4f61-b41f-e983715887b8",
+      "name": "Shake",
+      "level": 3,
+      "spanish": [
+        "Agitar",
+        "Agitó",
+        "Agitado"
+      ],
+      "english": [
+        "Shake",
+        "Shook",
+        "Shaken"
+      ]
+    },
+    {
+      "id": "641183f2-c0c8-4d10-811f-06fbd4a356be",
+      "name": "Seek",
+      "level": 3,
+      "spanish": [
+        "Buscar",
+        "Buscó",
+        "Buscado"
+      ],
+      "english": [
+        "Seek",
+        "Sought",
+        "Sought"
+      ]
+    },
+    {
+      "id": "46332010-fa9f-4d4b-9d26-1d7772eb2e49",
+      "name": "Ring",
+      "level": 3,
+      "spanish": [
+        "Llamar",
+        "Llamó",
+        "Llamado"
+      ],
+      "english": [
+        "Ring",
+        "Rang",
+        "Rung"
+      ]
+    },
+    {
+      "id": "f0ed63b8-2b35-48b7-8d8d-dbb0b4b248f0",
+      "name": "Lead",
+      "level": 2,
+      "spanish": [
+        "Dirigir",
+        "Dirigió",
+        "Dirigido"
+      ],
+      "english": [
+        "Lead",
+        "Led",
+        "Led"
+      ]
+    },
+    {
+      "id": "e40bc9ac-afab-48e8-8ee7-566b537b7448",
+      "name": "Leave",
+      "level": 2,
+      "spanish": [
+        "Dejar",
+        "Dejó",
+        "Dejado"
+      ],
+      "english": [
+        "Leave",
+        "Left",
+        "Left"
+      ]
+    },
+    {
+      "id": "c0cc7875-37eb-435c-b2c5-9fe6142ab84b",
+      "name": "Say",
+      "level": 2,
+      "spanish": [
+        "Decir",
+        "Dijó",
+        "Dicho"
+      ],
+      "english": [
+        "Say",
+        "Said",
+        "Said"
+      ]
+    },
+    {
+      "id": "343e19e8-16f0-40f2-82a7-3054caf1e60f",
+      "name": "Show",
+      "level": 2,
+      "spanish": [
+        "Mostrar",
+        "Mostró",
+        "Mostrado"
+      ],
+      "english": [
+        "Show",
+        "Showed",
+        "Shown"
+      ]
+    },
+    {
+      "id": "6b6a43e9-d007-489d-a40e-4dc8da87c710",
+      "name": "Shine",
+      "level": 2,
+      "spanish": [
+        "Brillar",
+        "Brilló",
+        "Brillado"
+      ],
+      "english": [
+        "Shine",
+        "Shone",
+        "Shone"
+      ]
+    },
+    {
+      "id": "5e113300-a83e-410a-8ce1-58a8a805e0c2",
+      "name": "Sit",
+      "level": 2,
+      "spanish": [
+        "Sentarse",
+        "Sentó",
+        "Sentado"
+      ],
+      "english": [
+        "Sit",
+        "Sat",
+        "Sat"
+      ]
+    },
+    {
+      "id": "71cd45e4-fb2c-47f2-b1a5-6b3953ca8dbe",
+      "name": "Speed",
+      "level": 2,
+      "spanish": [
+        "Acelerar",
+        "Aceleró",
+        "Acelerado"
+      ],
+      "english": [
+        "Speed",
+        "Sped",
+        "Sped"
+      ]
+    },
+    {
+      "id": "d2bc6caa-0cd3-4191-afc6-36320308e8ba",
+      "name": "Spit",
+      "level": 2,
+      "spanish": [
+        "Escupir",
+        "Escupió",
+        "Escupido"
+      ],
+      "english": [
+        "Spit",
+        "Spat",
+        "Spat"
+      ]
+    },
+    {
+      "id": "29df3e4d-9f7f-4e74-a507-eb64775a595a",
+      "name": "Sweep",
+      "level": 2,
+      "spanish": [
+        "Barrer",
+        "Barrió",
+        "Barrido"
+      ],
+      "english": [
+        "Sweep",
+        "Swept",
+        "Swept"
+      ]
+    },
+    {
+      "id": "965a4f70-2c20-48fb-bbe6-c54584c7f794",
+      "name": "Spread",
+      "level": 2,
+      "spanish": [
+        "Extender",
+        "Extendió",
+        "Extendido"
+      ],
+      "english": [
+        "Spread",
+        "Spread",
+        "Spread"
+      ]
     }
   ],
   "users": [
@@ -111,23 +396,158 @@
       "id": "aefea7f7-547e-4b3b-80fa-4692d0daea01",
       "name": "Raúl Genaro",
       "lastName": "Adame Najera",
-      "userName": "LinuxEnjoyer",
+      "userName": "YakuzaEnjoyer",
       "email": "linux8612@gmail.com",
       "password": "123456",
       "verbs": [
         {
-          "id": "eff5b400-af3e-4ab0-ba2c-b937e47bb67a",
-          "name": "Eat",
+          "id": "4dde0aed-33e1-4c23-b94d-99a8bb3cfe0b",
+          "name": "Run",
           "level": 1,
           "spanish": [
-            "Comer",
-            "Comio",
-            "Comido"
+            "Corri",
+            "Corrio",
+            "Corrido"
           ],
           "english": [
-            "Eat",
-            "Ate",
-            "Eaten"
+            "Run",
+            "Ran",
+            "Run"
+          ]
+        },
+        {
+          "id": "df829a96-e48d-48c5-b15d-66ebaa388f28",
+          "name": "Know",
+          "level": 3,
+          "spanish": [
+            "Conocer",
+            "Conocío",
+            "Conocido"
+          ],
+          "english": [
+            "Know",
+            "Knew",
+            "Known"
+          ]
+        },
+        {
+          "id": "92a8f132-75bb-4129-aebe-f2ac80cc269f",
+          "name": "Feel",
+          "level": 2,
+          "spanish": [
+            "Sentir",
+            "Sintió",
+            "Sentido"
+          ],
+          "english": [
+            "Feel",
+            "Felt",
+            "Felt"
+          ]
+        },
+        {
+          "id": "d14af66a-9376-4a89-962d-e483d3347070",
+          "name": "Wear",
+          "level": 3,
+          "spanish": [
+            "Vestir",
+            "Vistió",
+            "Vestido"
+          ],
+          "english": [
+            "Wear",
+            "Wore",
+            "Worn"
+          ]
+        },
+        {
+          "id": "ec6db583-dff2-49e9-a62f-868d9ce12c4a",
+          "name": "Steal",
+          "level": 3,
+          "spanish": [
+            "Robar",
+            "Robó",
+            "Robado"
+          ],
+          "english": [
+            "Steal",
+            "Stole",
+            "Stolen"
+          ]
+        },
+        {
+          "id": "c2088860-2a85-4693-a3cc-c3526ecfdb3c",
+          "name": "Shrink",
+          "level": 3,
+          "spanish": [
+            "Encoger",
+            "Encogió",
+            "Encogido"
+          ],
+          "english": [
+            "Shrink",
+            "Shrank",
+            "Shrunk"
+          ]
+        },
+        {
+          "id": "641183f2-c0c8-4d10-811f-06fbd4a356be",
+          "name": "Seek",
+          "level": 3,
+          "spanish": [
+            "Buscar",
+            "Buscó",
+            "Buscado"
+          ],
+          "english": [
+            "Seek",
+            "Sought",
+            "Sought"
+          ]
+        },
+        {
+          "id": "f0ed63b8-2b35-48b7-8d8d-dbb0b4b248f0",
+          "name": "Lead",
+          "level": 2,
+          "spanish": [
+            "Dirigir",
+            "Dirigió",
+            "Dirigido"
+          ],
+          "english": [
+            "Lead",
+            "Led",
+            "Led"
+          ]
+        },
+        {
+          "id": "e40bc9ac-afab-48e8-8ee7-566b537b7448",
+          "name": "Leave",
+          "level": 2,
+          "spanish": [
+            "Dejar",
+            "Dejó",
+            "Dejado"
+          ],
+          "english": [
+            "Leave",
+            "Left",
+            "Left"
+          ]
+        },
+        {
+          "id": "343e19e8-16f0-40f2-82a7-3054caf1e60f",
+          "name": "Show",
+          "level": 2,
+          "spanish": [
+            "Mostrar",
+            "Mostró",
+            "Mostrado"
+          ],
+          "english": [
+            "Show",
+            "Showed",
+            "Shown"
           ]
         }
       ]
